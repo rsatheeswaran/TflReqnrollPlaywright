@@ -1,0 +1,14 @@
+﻿# Build outputs
+bin/
+obj/
+
+# Local IDE files
+.vs/
+*.user
+*.suo
+
+# Browser inspection outputs
+.playwright-mcp/
+
+# Test results
+TestResults/
